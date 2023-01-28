@@ -11,7 +11,7 @@ public class DemoprojectApplication {
 
 		SpringApplication.run(DemoprojectApplication.class, args);
 
-		System.out.println("Hello World this is DemoProject");
+		System.out.println("Hello World this is DemoProject Integrated with GItHub");
 	}
 
 }
